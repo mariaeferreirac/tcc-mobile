@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Track (fundo cinza claro) -->
+    <item android:id="@android:id/background">
+        <shape android:shape="ring"
+            android:innerRadiusRatio="2.8"
+            android:thicknessRatio="8"
+            android:useLevel="false">
+            <solid android:color="#E8ECFD" />
+        </shape>
+    </item>
+
+    <!-- Progress (azul) -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="ring"
+                android:innerRadiusRatio="2.8"
+                android:thicknessRatio="8"
+                android:useLevel="true">
+                <solid android:color="#3B5BDB" />
+                <stroke android:width="0dp" />
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

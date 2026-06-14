@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.fitness.mvp.app-mergeDebugResources-36:/layout/activity_rest.xml",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_rest.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-mergeDebugResources-36:/layout/activity_feedback.xml",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-mergeDebugResources-36:/layout/activity_workout.xml",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_workout.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-mergeDebugResources-36:/layout/dialog_confirm_finish.xml",
+        "source": "com.fitness.mvp.app-main-39:/layout/dialog_confirm_finish.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-mergeDebugResources-36:/layout/activity_dashboard.xml",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_dashboard.xml"
+    }
+]

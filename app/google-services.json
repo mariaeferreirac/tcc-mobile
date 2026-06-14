@@ -1,0 +1,22 @@
+{
+  "_INSTRUCOES_": [
+    "1. Acesse https://console.firebase.google.com",
+    "2. Crie um novo projeto Firebase (ex: 'fitness-mvp')",
+    "3. Clique em 'Adicionar app' → Android",
+    "4. Package name: com.fitness.mvp",
+    "5. Registrar app → Baixar google-services.json",
+    "6. SUBSTITUA ESTE ARQUIVO pelo google-services.json baixado",
+    "7. No Firebase Console: Build → Firestore Database → Criar banco",
+    "8. Escolha modo de teste (rules abertas para desenvolvimento)"
+  ],
+  "_ESTRUTURA_FIRESTORE_": {
+    "colecao": "feedbacks",
+    "documento_exemplo": {
+      "workoutId": "treino_1_nivel_1",
+      "rpe": 7,
+      "userId": "usuario_01",
+      "timestamp": 1700000000000,
+      "createdAt": "ServerTimestamp"
+    }
+  }
+}

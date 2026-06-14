@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_bg_circle_green.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/bg_circle_green.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_trophy.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_trophy.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_bg_circle_blue.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/bg_circle_blue.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/layout_activity_feedback.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_fitness_center.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_fitness_center.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_home.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_history.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/layout_activity_workout.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_workout.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_person.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/layout_dialog_confirm_finish.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/layout/dialog_confirm_finish.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_circular_progress.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/circular_progress.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_menu.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/layout_activity_dashboard.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_progress_bar_green.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/progress_bar_green.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_trending_up.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_trending_up.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_bg_dialog_rounded.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/bg_dialog_rounded.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/layout_activity_rest.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/layout/activity_rest.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_ic_chevron_left.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_bg_icon_square_green.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/bg_icon_square_green.xml"
+    },
+    {
+        "merged": "com.fitness.mvp.app-merged_res-37:/drawable_bg_icon_square_blue.xml.flat",
+        "source": "com.fitness.mvp.app-main-39:/drawable/bg_icon_square_blue.xml"
+    }
+]

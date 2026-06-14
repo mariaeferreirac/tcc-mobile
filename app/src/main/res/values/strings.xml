@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitMVP</string>
+
+    <!-- Treino -->
+    <string name="workout_title">TREINO 1 – NÍVEL 1 – INICIANTE</string>
+    <string name="workout_subtitle">2 exercícios · ~20 min</string>
+    <string name="exercise_counter">Exercício %1$d/%2$d</string>
+    <string name="series_label">Série</string>
+    <string name="duration_label">Duração</string>
+    <string name="rest_label">Descanso</string>
+    <string name="pause_workout">Pausar Treino</string>
+    <string name="resume_workout">▶  Retomar Treino</string>
+    <string name="finish_workout">Finalizar Treino</string>
+    <string name="confirm_finish">Finalizar treino</string>
+    <string name="confirm_finish_msg">Tem certeza que deseja encerrar o treino?</string>
+    <string name="continue_btn">Continuar</string>
+    <string name="end_btn">Encerrar</string>
+    <string name="next_exercise">Próximo exercício</string>
+    <string name="series_counter">Série %1$d</string>
+
+    <!-- Descanso -->
+    <string name="rest_title">Descanso</string>
+    <string name="next_label">Próximo:</string>
+    <string name="skip_rest">Pular descanso</string>
+    <string name="next_exercise_info">%1$s – %2$s</string>
+    <string name="stat_unit_format">%1$s%2$s</string>
+
+    <!-- Feedback -->
+    <string name="feedback_title">Como foi o treino?</string>
+    <string name="feedback_subtitle">Avalie o quão intenso esse treino foi para você</string>
+    <string name="send_feedback">Enviar Avaliação</string>
+    <string name="sending_feedback">Enviando...</string>
+    <string name="sent_feedback">Enviado!</string>
+    <string name="feedback_success">Feedback enviado! Parabéns pelo treino! 💪</string>
+    <string name="feedback_error">Erro ao enviar. Tente novamente.</string>
+
+    <!-- Exercícios -->
+    <string name="exercise_1_name">Supino Reto</string>
+    <string name="exercise_2_name">Agachamento Livre</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Olá, Usuário</string>
+    <string name="next_workout_title">Próximo Treino</string>
+    <string name="next_workout_info">TREINO 1 – NÍVEL 1 -  INICIANTE</string>
+    <string name="next_workout_meta">2 exercícios · ~10 min</string>
+    <string name="start_workout">Iniciar Treino</string>
+    <string name="progress_title">Seu Progresso</string>
+    <string name="progress_level">Nível Iniciante</string>
+    <string name="progress_percent">35% para o próximo nível</string>
+    <string name="month_year_format">%1$s de %2$d</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_history">Histórico</string>
+    <string name="nav_workout">Treino</string>
+    <string name="nav_ranking">Ranking</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="coming_soon">Em breve</string>
+</resources>

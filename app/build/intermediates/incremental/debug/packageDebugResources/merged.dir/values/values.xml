@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_green">#40C057</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_exercise_header">#3B5BDB</color>
+    <color name="bg_light">#F8F9FA</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="border_light">#DEE2E6</color>
+    <color name="calendar_today_bg">#3B5BDB</color>
+    <color name="calendar_workout_bg">#BFEACB</color>
+    <color name="danger_red">#FA5252</color>
+    <color name="divider">#E9ECEF</color>
+    <color name="icon_bg_blue_light">#E8ECFD</color>
+    <color name="icon_bg_green_light">#E3F9E8</color>
+    <color name="nav_inactive">#ADB5BD</color>
+    <color name="primary_blue">#3B5BDB</color>
+    <color name="primary_blue_dark">#2F4AC3</color>
+    <color name="progress_track">#E9ECEF</color>
+    <color name="rest_blue">#4263EB</color>
+    <color name="text_blue_timer">#3B5BDB</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="timer_circle_bg">#E8ECFD</color>
+    <color name="timer_circle_stroke">#3B5BDB</color>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="timer_size">200dp</dimen>
+    <dimen name="timer_stroke_width">8dp</dimen>
+    <string name="app_name">FitMVP</string>
+    <string name="coming_soon">Em breve</string>
+    <string name="confirm_finish">Finalizar treino</string>
+    <string name="confirm_finish_msg">Tem certeza que deseja encerrar o treino?</string>
+    <string name="continue_btn">Continuar</string>
+    <string name="dashboard_greeting">Olá, Usuário</string>
+    <string name="duration_label">Duração</string>
+    <string name="end_btn">Encerrar</string>
+    <string name="exercise_1_name">Supino Reto</string>
+    <string name="exercise_2_name">Agachamento Livre</string>
+    <string name="exercise_counter">Exercício %1$d/%2$d</string>
+    <string name="feedback_error">Erro ao enviar. Tente novamente.</string>
+    <string name="feedback_subtitle">Avalie o quão intenso esse treino foi para você</string>
+    <string name="feedback_success">Feedback enviado! Parabéns pelo treino! 💪</string>
+    <string name="feedback_title">Como foi o treino?</string>
+    <string name="finish_workout">Finalizar Treino</string>
+    <string name="month_year_format">%1$s de %2$d</string>
+    <string name="nav_history">Histórico</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_ranking">Ranking</string>
+    <string name="nav_workout">Treino</string>
+    <string name="next_exercise">Próximo exercício</string>
+    <string name="next_exercise_info">%1$s – %2$s</string>
+    <string name="next_label">Próximo:</string>
+    <string name="next_workout_info">TREINO 1 – NÍVEL 1 -  INICIANTE</string>
+    <string name="next_workout_meta">2 exercícios · ~10 min</string>
+    <string name="next_workout_title">Próximo Treino</string>
+    <string name="pause_workout">Pausar Treino</string>
+    <string name="progress_level">Nível Iniciante</string>
+    <string name="progress_percent">35% para o próximo nível</string>
+    <string name="progress_title">Seu Progresso</string>
+    <string name="rest_label">Descanso</string>
+    <string name="rest_title">Descanso</string>
+    <string name="resume_workout">▶  Retomar Treino</string>
+    <string name="send_feedback">Enviar Avaliação</string>
+    <string name="sending_feedback">Enviando...</string>
+    <string name="sent_feedback">Enviado!</string>
+    <string name="series_counter">Série %1$d</string>
+    <string name="series_label">Série</string>
+    <string name="skip_rest">Pular descanso</string>
+    <string name="start_workout">Iniciar Treino</string>
+    <string name="stat_unit_format">%1$s%2$s</string>
+    <string name="workout_subtitle">2 exercícios · ~20 min</string>
+    <string name="workout_title">TREINO 1 – NÍVEL 1 – INICIANTE</string>
+    <style name="DayHeaderLabel">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="Theme.FitnessMVP" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/primary_blue_dark</item>
+        <item name="colorOnPrimary">@color/text_white</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:statusBarColor">@color/primary_blue</item>
+        <item name="android:navigationBarColor">@color/bg_white</item>
+    </style>
+    <style name="Theme.FitnessMVP.Dashboard" parent="Theme.FitnessMVP">
+        <item name="android:statusBarColor">@color/bg_white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.FitnessMVP.RestActivity" parent="Theme.FitnessMVP">
+        <item name="android:statusBarColor">@color/bg_white</item>
+    </style>
+    <style name="Widget.FitnessMVP.Button.Danger" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/danger_red</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="Widget.FitnessMVP.Button.Outline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="strokeColor">@color/border_light</item>
+        <item name="android:textSize">15sp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+    <style name="Widget.FitnessMVP.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/primary_blue</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="Widget.FitnessMVP.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/bg_card</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">4dp</item>
+    </style>
+</resources>
