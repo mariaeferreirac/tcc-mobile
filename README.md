@@ -1,11 +1,11 @@
-# Fitness MVP - Android Studio
+# MVP - Android Studio
 
 ## Estrutura do Projeto
 
 ```
 app/
 ├── src/main/
-│   ├── java/com/fitness/mvp/
+│   ├── java/com/tcc/mvp/
 │   │   ├── ui/
 │   │   │   ├── DashboardActivity.kt      ← Tela inicial (HU003)
 │   │   │   ├── WorkoutActivity.kt        ← Tela do treino
